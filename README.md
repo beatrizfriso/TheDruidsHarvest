@@ -27,7 +27,7 @@ To install and run The Druid's Harvest API, follow these steps:
 [image here]
 
 
-> 2. Change to the directory where Librarian API is cloned:
+> 2. Change to the directory where The Druid's Harvest API is cloned:
 
 [image here]
 
@@ -48,7 +48,7 @@ To install and run The Druid's Harvest API, follow these steps:
 
 ## Usage ✏️
 
-The Librarian API provides the following endpoints for managing a greengrocer:
+The Druid's Harvest API provides the following endpoints for managing a greengrocer:
 
 ``` GET /api/fruits: Retrieves all fruits in the inventory. ```
 
