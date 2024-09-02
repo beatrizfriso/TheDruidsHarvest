@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace DruidsHarvest.API.Controllers
+namespace TheDruidsHarvest.Controllers
 {
     [ApiController]
     [Route("[controller]")]

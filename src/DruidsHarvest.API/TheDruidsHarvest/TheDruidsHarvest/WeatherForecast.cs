@@ -1,4 +1,4 @@
-namespace DruidsHarvest.API
+namespace TheDruidsHarvest
 {
     public class WeatherForecast
     {
