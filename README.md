@@ -17,6 +17,7 @@ The Druid's Harvest API will include the following features:
 - [ ] DevOps pipeline
 - [ ] Observability
 - [ ] Unit tests
+- [ ] SonarQube
 
 ## Installation 🛠
 
